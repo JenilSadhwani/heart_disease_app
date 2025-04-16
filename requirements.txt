@@ -1,0 +1,5 @@
+streamlit
+numpy
+fpdf
+qrcode
+google-generativeai
